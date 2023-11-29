@@ -1,0 +1,6 @@
+/home/ceylan/RiderProjects/random_inf/random_inf/bin/Debug/random_inf.exe
+/home/ceylan/RiderProjects/random_inf/random_inf/bin/Debug/random_inf.pdb
+/home/ceylan/RiderProjects/random_inf/random_inf/obj/Debug/random_inf.csproj.AssemblyReference.cache
+/home/ceylan/RiderProjects/random_inf/random_inf/obj/Debug/random_inf.csproj.CoreCompileInputs.cache
+/home/ceylan/RiderProjects/random_inf/random_inf/obj/Debug/random_inf.exe
+/home/ceylan/RiderProjects/random_inf/random_inf/obj/Debug/random_inf.pdb
